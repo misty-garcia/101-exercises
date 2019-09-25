@@ -1,3 +1,3 @@
-# This is a readme
+# 101 exercises readme
 
-This is the readme for the 101 exercises. 
+Theses 101 python exercises were given to me as pre-work for my Data Science class. 
